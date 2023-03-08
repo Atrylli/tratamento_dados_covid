@@ -25,3 +25,6 @@ O arquivo necessário para a plotagem dos mapas está nomeado como "Tratamento d
 * Digite "cd <caminho_da_pasta>" e após entrar no diretório, escreva "jupyter notebook", aguarde abrir uma aba do navegador.
 * No navegador, é possível ver todos os arquivos que estão localizados dentro da pasta que você escolheu, selecione o arquivo "Tratamento de dados da COVID-19 (27 fev 2023).ipynb".
 
+#### Uma amostra dos resultados
+<img align="center" alt="gif-mapa-covid" height="150" width="300" src="https://cdn.discordapp.com/attachments/656990779201421313/1082845169277222992/mapa_covid_br_AdobeExpress_1.gif">
+
